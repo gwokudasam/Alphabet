@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alphabet</string>
+    <string name="capture_image">Click here to capture Image using camera</string>
+    <string name="upload_image">Upload Image</string>
+</resources>
